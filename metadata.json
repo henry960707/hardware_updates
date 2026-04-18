@@ -1,0 +1,8 @@
+{
+  "name": "Hardware Inventory & Barcode Pro",
+  "description": "A comprehensive hardware store inventory management system with barcode generation and mobile scanning capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
